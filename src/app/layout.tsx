@@ -7,8 +7,8 @@ import { CartProvider } from '../context/CartContext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Lama Dev E-Commerce Application',
-  description: 'A complete e-commerce application with Next.js and Wix',
+  title: 'Modern E-Commerce Product Page',
+  description: 'A dynamic and responsive e-commerce product page built using Next.js 15+, React Context API, and Tailwind CSS. It provides a fully interactive shopping cart experience with persistent storage and a clean, testable architecture.',
 }
 
 export default function RootLayout({
