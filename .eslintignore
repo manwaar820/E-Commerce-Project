@@ -1,0 +1,4 @@
+# Ignore test files and folders
+src/__tests__/
+*.test.tsx
+*.test.ts
